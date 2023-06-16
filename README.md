@@ -8,7 +8,7 @@ You will need Python 3.6+ installed on your machine.
 
 1. Clone the repository to your local machine:
 
-`git clone https://github.com/yourusername/StorefrontTelegramBot.git`
+`git clone https://github.com/AhmadAlMunajjed/StorefrontTelegramBot.git`
 
 2. Navigate into the project directory:
 
