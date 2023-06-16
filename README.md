@@ -8,12 +8,11 @@ You will need Python 3.6+ installed on your machine.
 
 1. Clone the repository to your local machine:
 
-`git clone https://github.com/yourusername/myAPIproject.git`
+`git clone https://github.com/yourusername/StorefrontTelegramBot.git`
 
 2. Navigate into the project directory:
 
-`cd myAPIproject`
-
+`cd StorefrontTelegramBot`
 
 3. Create a virtual environment and activate it:
 
